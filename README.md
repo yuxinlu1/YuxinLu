@@ -1,7 +1,4 @@
 ## Hi there 👋 I'm Yuxin Lu 😁 
-<div>
-<span><img src="https://img.shields.io/github/followers/yuxinlu1?label=Followers&logo=Github"/></span>
-</div>
 
 ## 🎓 I'm a Full Stack Develpoper
 
