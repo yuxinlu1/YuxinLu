@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yuxin Lu 😁 
 <div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yuxinlu1.yuxinlu1"/> <span><img src="https://img.shields.io/github/followers/yuxinlu1?label=Followers&logo=Github"/></span>
+<span><img src="https://img.shields.io/github/followers/yuxinlu1?label=Followers&logo=Github"/></span>
 </div>
 
 ## 🎓 I'm a Full Stack Develpoper
