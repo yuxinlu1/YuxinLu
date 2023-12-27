@@ -10,7 +10,6 @@
 - 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
 
 ## ✉ Find me on:
-<br />
 <p align="left">
  <a href="mailto:yuxinlu0324@gmail.com"> 
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
